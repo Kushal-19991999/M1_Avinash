@@ -3,7 +3,7 @@ int main()
 {
     int num, pow;
     int result = 1;
-    printf("enter the number 2\n");
+    printf("enter the number\n");
     scanf("%d", &num);
     printf("enter the Power\n");
     scanf("%d", &pow);
