@@ -9,3 +9,10 @@ Objective
 This project focuses on matrix operations on square matrices. The operations
 
 
+|HLR|Description|
+|LR01|User shall be able to specify the size of the matrix|
+|LR02|User shall be able to add the matrices|
+|LR03|User shall be able to subtract the matrices|
+|LR04|User shall be able to multiply the matrices|
+
+
